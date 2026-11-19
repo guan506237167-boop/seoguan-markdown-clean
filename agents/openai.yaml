@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·Markdown 清理与排版"
+  short_description: "保守清理Markdown的BOM和换行，辅助检查标题与列表结构。适用于发布前排版，保护代码、链接和表格内容。"
+  default_prompt: "使用 $seoguan-markdown-clean，根据我提供的材料完成Markdown 清理与排版，保留证据与未确认项。"
